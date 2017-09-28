@@ -1,0 +1,14 @@
+sudo -i
+root@mamun:~#
+root@mamun:~# sudo chgrp mamun /var/www
+root@mamun:~# sudo chmod 775 /var/www
+root@mamun:~# sudo chown -R mamun /var/www/*
+root@mamun:~# sudo chown -R mamun /var/www/*
+
+
+
+
+sudo chmod -R 777 /opt/lampp/htdocs/drubo-light
+
+ 
+
