@@ -5,6 +5,9 @@ root@mamun:~# sudo chmod 775 /var/www
 root@mamun:~# sudo chown -R mamun /var/www/*
 root@mamun:~# sudo chown -R mamun /var/www/*
 
+root@mamun-desktop:~# chmod -R 755 /var/www/html/wordpress/drubo
+
+
 
 
 
