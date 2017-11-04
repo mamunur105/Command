@@ -9,7 +9,7 @@ root@mamun-desktop:~# chmod -R 755 /var/www/html/wordpress/drubo
 
 
 
-
+// plaugin update ,, working well 
 
 sudo chmod -R 777 /opt/lampp/htdocs/drubo-light
 
