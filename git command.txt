@@ -8,38 +8,43 @@
 	Git commands:
 
 	For loggin-in for the first time:
-	1. git config --global user.name "<username>"
-	2. git config --global user.email "<email ID>"
+		1. git config --global user.name "<username>"
+		2. git config --global user.email "<email ID>"
 
 	For the first time:
-	1. git clone <url> (for cloning the contents of the repository)
-	2. git checkout <branch name> (for switching to desired branch)
+		1. git clone <url> (for cloning the contents of the repository)
+		2. git checkout <branch name> (for switching to desired branch)
 
 	For commiting every time:
-	1. git add .
-	2. git commit -m "(Your Comments)"
-	3. git push -u origin <branch name>
+		1. git add .
+		2. git commit -m "(Your Comments)"
+		3. git push -u origin <branch name>
 
 	For starting work every time:
-	1. git fetch origin
-	2. git diff <local branch name> origin/<remote branch name>
-	3. git pull origin <brance name >
+		1. git fetch origin
+		2. git diff <local branch name> origin/<remote branch name>
+		3. git pull origin <brance name >
 
 	git new brance ready to switch 
-	1. git remote update
-	============ all branch  
-	2. git branch -a
+		1. git remote update
+		============ all branch  
+		2. git branch -a
 
 	====== recent branch 
-	 
+	
+	-swichw branch 
+ 
+		git branch <brance name >
+		git checkout <brance name >
+		 
 	3. git branch
  	
-	file transfer to other branch 
-	
-	branch name is a,b
-	 
-	. first switch to that branch 
-	. pull  from  this branch 
+		file transfer to other branch 
+		
+		branch name is a,b
+		 
+		. first switch to that branch 
+		. pull  from  this branch 
 
 
 
