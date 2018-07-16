@@ -2,7 +2,7 @@ sudo /etc/init.d/apache2 stop
 sudo /etc/init.d/mysql stop
 or 
 
-sudo /etc/init.d/apache2 stop && sudo /etc/init.d/mysql stop
+sudo /etc/init.d/apache2 stop && sudo /etc/init.d/mysql stop && sudo /opt/lampp/lampp start
 
 others 
 	sudo /etc/init.d/apache2 start
