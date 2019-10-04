@@ -1,3 +1,5 @@
+https://www.cyberciti.biz/faq/star-stop-restart-apache2-webserver/
+
 sudo /etc/init.d/apache2 stop
 sudo /etc/init.d/mysql stop
 or 
