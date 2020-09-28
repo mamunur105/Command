@@ -1,3 +1,9 @@
+Install xampp in ubuntu 
+
+'chmod 755 xampp-linux-x64-7.2.10-0-installer.run'
+
+sudo ./xampp-linux-7.2.10-0-installer.run
+
 After install Xampp/lampp 
 
 Install composer like so:
