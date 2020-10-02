@@ -1,0 +1,2 @@
+How can I shorten my command line (bash) prompt?
+PROMPT_DIRTRIM=2
