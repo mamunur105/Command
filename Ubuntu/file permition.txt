@@ -18,3 +18,5 @@ sudo find . -type d -exec chmod 755 {} \;
 sudo find . -type f -exec chmod 644 {} \;
 
 
+file delete 
+sudo rm -rf ./rubystack-2.7.2-0
