@@ -1,2 +1,5 @@
 How can I shorten my command line (bash) prompt?
 PROMPT_DIRTRIM=2
+
+Open Dir:
+nautilus dirname
